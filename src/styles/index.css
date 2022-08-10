@@ -1,12 +1,9 @@
+.miContenedor{
+    padding-top: 4rem;
+}
 
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+/* Me sigue tomando el padding por defecto no se por que*/
+.miFooter{
+    padding-left: 0;
+    padding-right: 0;
+}
